@@ -1,6 +1,19 @@
 <template>
   <div>
-    <h1> I Komang Wahyudi</h1> 
-    <h2> wahyudi </h2>
+    <div>
+    <h1>Tentang Kami</h1>
+    <p>Ini adalah halaman tentang kami.</p>
+  </div>
+</template>
+
+<script>
+export default {
+  // Konten logika komponen
+}
+</script>
+
+<style>
+/* Gaya CSS untuk halaman tentang */
+
   </div>
 </template>
